@@ -2,7 +2,9 @@ source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
 gem "hashie"
-gem ""
+gem "sinatra"
+
+
 group :development do
 gem "pry"
 end
